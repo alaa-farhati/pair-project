@@ -14,7 +14,7 @@
 <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Login</button>
 
 <div id="id01" class="modal">
-  
+/* animation page
   <form class="modal-content animate" action="/action_page.php" method="post">
     <div class="imgcontainer">
       <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
@@ -23,12 +23,12 @@
 
     <div class="container">
       <label for="uname"><b>Username</b></label>
-      <input type="text" placeholder="Enter Username" name="uname" required>
+      <input id="log1" type="text" placeholder="Enter Username" name="uname" required>
 
       <label for="psw"><b>Password</b></label>
-      <input type="password" placeholder="Enter Password" name="psw" required>
-        
-      <button type="submit">Login</button>
+      <input id="log2" type="password" placeholder="Enter Password" name="psw" required>
+      
+      <button id="1" type="submit">Login</button>
       <label>
         <input type="checkbox" checked="checked" name="remember"> Remember me
       </label>
@@ -42,8 +42,6 @@
 </div>
 
 
-    <a href="main.html">
-      <button id="move">enjoy</button></a>
     
    
 <script src="https://code.jquery.com/jquery-3.6.3.js"></script>

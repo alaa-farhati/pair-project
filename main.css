@@ -1,0 +1,13 @@
+body {
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5469a1b4e4b03ee10b148368/1539223163814-XZC1IHZJPBI4WT0F88RG/TTGM_230_027_Ext_ChineseTheatreStreet_PAINT.jpg?format=2500w);
+background-repeat: no-repeat;
+background-size: cover;
+webkit-backdrop-filter: 8px;
+}
+#logo{
+    position: relative;
+    text-align: center;
+    top: 25px;
+    width: 490px;
+    height: 250px; 
+}

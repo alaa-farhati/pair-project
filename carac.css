@@ -1,0 +1,230 @@
+body{
+    background-image: url(https://th.bing.com/th/id/R.aaed74ad0ce21ab853c604e43bd6cb5b?rik=xrD87F16cb3emQ&pid=ImgRaw&r=0);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+
+
+#all1{
+   background-image: url(https://i.pinimg.com/originals/d0/6d/fe/d06dfef1707fcdea5d7d6d4d85fb92ee.jpg);
+       height: 340px;
+       width: 900px;
+        position: absolute;
+        top: 240px;
+        right: 200px;
+        bottom: 0;
+        left: 200px;
+        color: aliceblue;
+        
+    
+    }
+    #all2{
+        background-image: url(https://th.bing.com/th/id/R.72c9fb8f0f7a8124b89570a7d0ff27ce?rik=DtdY%2fmYqXRiAQg&riu=http%3a%2f%2fimages2.fanpop.com%2fimage%2fphotos%2f11100000%2fDeathstroke-Slade-teen-titans-villans-11120773-720-480.jpg&ehk=vKTqotKB5RjkIGch%2fhRyFrjgjh4TvmRFcV5BXF798dk%3d&risl=&pid=ImgRaw&r=0);
+           height: 340px;
+           width: 900px;
+            position: absolute;
+            top: 240px;
+            right: 200px;
+            bottom: 0;
+            left: 200px;
+            color: aliceblue;
+            
+        
+        }
+        #all3{
+        background-image: url(https://i.pinimg.com/originals/b6/95/72/b695726a6ab73647183afdb227ba1837.jpg);
+               height: 340px;
+               width: 900px;
+                position: absolute;
+                top: 240px;
+                right: 200px;
+                bottom: 0;
+                left: 200px;
+                color: aliceblue;
+                
+            
+            }
+            #all4{
+                background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad6c6b18-f367-452e-97e4-cb868acde2bd/dab8p6i-a80880dd-36eb-49a3-8c99-eec520600e09.jpg/v1/fill/w_1024,h_633,q_75,strp/terra_teen_titans_by_charlottesketches_dab8p6i-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjMzIiwicGF0aCI6IlwvZlwvYWQ2YzZiMTgtZjM2Ny00NTJlLTk3ZTQtY2I4NjhhY2RlMmJkXC9kYWI4cDZpLWE4MDg4MGRkLTM2ZWItNDlhMy04Yzk5LWVlYzUyMDYwMGUwOS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.mvgaRzByDR3yXxf3UBAJtfC10iYJfqfdFtS0MRMfR8Q);
+                   height: 340px;
+                   width: 900px;
+                    position: absolute;
+                    top: 240px;
+                    right: 200px;
+                    bottom: 0;
+                    left: 200px;
+                    color: rgb(3, 4, 5);
+                    
+                    
+                
+                }
+                #all5{
+                    background-image: url(https://static.vecteezy.com/system/resources/previews/000/830/014/large_2x/futuristic-banner-background-with-wireframe-terrain-vector.jpg);
+                       height: 340px;
+                       width: 900px;
+                        position: absolute;
+                        top: 240px;
+                        right: 200px;
+                        bottom: 0;
+                        left: 200px;
+                        color: aliceblue;
+                        
+                    
+                    }
+
+
+#icon1{
+    background-image: url(https://pm1.narvii.com/7520/8c94053f41ccd2191b472224513700ba62c11751r1-942-1143v2_hq.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+color: rgb(13, 11, 8);
+text-align: center;
+height: 350px;
+    width: 260px;
+    position: relative;
+    left: 1100px;
+    top: 50px;
+
+
+}
+#icon2{
+    background-image: url(https://i.pinimg.com/736x/74/6a/ef/746aefb752fe6e8100faae929ebfceed--deathstroke-young-justice.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+color: antiquewhite;
+text-align: center;
+height: 350px;
+    width: 260px;
+    position: relative;
+    left: 1100px;
+    top: 50px;
+
+
+}
+#icon3{
+    background-image: url(https://th.bing.com/th/id/R.6aba5f3ec11a8bd39418c71d4d480756?rik=i16wx3BpBSO1Ow&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-size: cover;
+color: antiquewhite;
+text-align: center;
+height: 350px;
+    width: 260px;
+    position: relative;
+    left: 1100px;
+    top: 50px;
+
+
+}
+#icon4{
+    background-image: url(https://i.pinimg.com/originals/07/54/df/0754df98f6859344c9a685048f7262d9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+color: antiquewhite;
+text-align: center;
+height: 350px;
+    width: 260px;
+    position: relative;
+    left: 1100px;
+    top: 50px;
+
+
+}
+#icon5{
+    background-image: url(https://i.pinimg.com/474x/08/65/92/0865920d62a09ef62be3ae9f187605b0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+color: antiquewhite;
+text-align: center;
+height: 350px;
+    width: 260px;
+    position: relative;
+    left: 1100px;
+    top: 50px;
+
+
+}
+
+
+.search{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/830/014/large_2x/futuristic-banner-background-with-wireframe-terrain-vector.jpg);
+    height: 800px;
+    width: 100px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: aliceblue;
+}
+img{
+    position: relative;
+    top: 0;
+    left: 460px;
+    bottom: 0;
+    right: 0;
+    text-align: center;
+    
+}
+
+p{
+    text-align: center;
+    font-size: 16px;
+}
+#input{
+    width: 150px;
+    height : 40px;
+    background:none;
+    font-size:15px;
+    color: #fff;
+    border: 1px solid #fff;
+}
+#input:focus {
+    border-bottom: 2px solid #fff;
+}
+#button {
+    height: 30px;
+    width : 160px;
+    background:#ff0;
+    color: #fff;
+    cursor: pointer;
+    margin: 10px 0;
+    font: size 15px;
+    box-shadow: 0 3px 10px #111;
+    border-radius: 5px;
+}
+#button:hover{
+    opacity: 8%;;
+}
+.boxcontainer .box{
+    height: 100px;
+    width: 50%;
+    background-color: azure;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 5px 15 px #111;
+    position: relative;
+    left:280px;
+    top: 56px;
+
+
+}
+.container {
+    width:500px;
+    text-align: right;
+    position: relative;
+    left: 320px;
+    top: 49px;
+   
+   
+}
+a{
+    display: block;
+    color: #fff;
+    size: 13px;
+    text-align: center;
+   padding-top: 3cm;
+}
+
+

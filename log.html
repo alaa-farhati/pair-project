@@ -15,24 +15,40 @@
 <!-- fklerg -->
 
 <div id="id01" class="modal">
-/* animation page
+
   <form class="modal-content animate" action="/action_page.php" method="post">
     <div class="imgcontainer">
       <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
       <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c3ac433f-4a9a-4416-9307-fbe5813901a3/d77wikk-048cecfb-9662-4385-b057-166ee78a2050.jpg/v1/fill/w_1024,h_820,q_75,strp/teen_titans___raven_by_holyheretic_d77wikk-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODIwIiwicGF0aCI6IlwvZlwvYzNhYzQzM2YtNGE5YS00NDE2LTkzMDctZmJlNTgxMzkwMWEzXC9kNzd3aWtrLTA0OGNlY2ZiLTk2NjItNDM4NS1iMDU3LTE2NmVlNzhhMjA1MC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.0boF8q-knzA2OtrcAiddcj2JGflqeUpnRgioQV5JSwo" alt="teentitans" class="avatar">
     </div>
 
-    <div class="container">
-      <label for="uname"><b>Username</b></label>
-      <input id="log1" type="text" placeholder="Enter Username" name="uname" required>
-
-      <label for="psw"><b>Password</b></label>
-      <input id="log2" type="password" placeholder="Enter Password" name="psw" required>
-      
-      <button id="1" type="submit">Login</button>
-      <label>
-        <input type="checkbox" checked="checked" name="remember"> Remember me
-      </label>
+    <div id="error"></div>
+    <form id="form" action="/" method="GET">
+      <div>
+        <label for="username">username</label>
+        <input id="username" username="username" type="text" required>
+      </div>
+      <div>
+        <label for="password">Password</label>
+        <input id="password" name="password" type="password">
+      </div>
+      <button type="submit">Submit</button>
+    </form>
+    <div id="signup-form">
+      <h2>Sign Up</h2>
+      <form>
+        <label for="new-username">Username:</label>
+        <input type="text" id="new-username" name="new-username">
+        <label for="new-password">Password:</label>
+        <input type="password" id="new-password" name="new-password">
+        <label for="confirm-password">Confirm Password:</label>
+        <input type="password" id="confirm-password" name="confirm-password">
+        <button type="submit" id="signup-btn">Sign Up</button>
+      </form>
+    </div>
+    <div id="welcome-message">
+      <h2>Welcome!</h2>
+      <p>You are now logged in.</p>
     </div>
 
     <div class="container" style="background-color:#f1f1f1">
@@ -44,7 +60,7 @@
 
 
     
-   <!-- wiwi wiwi wwiiiiiiww -->
+  
 <script src="https://code.jquery.com/jquery-3.6.3.js"></script>
 <script src="log.js"></script>
 </body>

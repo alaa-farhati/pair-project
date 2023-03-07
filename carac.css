@@ -219,12 +219,169 @@ p{
    
    
 }
-a{
-    display: block;
-    color: #fff;
-    size: 13px;
-    text-align: center;
-   padding-top: 3cm;
-}
 
+.all{
+    background-color: rgb(11, 10, 8);
+       height: 300px;
+       width: 900px;
+        position: absolute;
+        top: 240px;
+        right: 200px;
+        bottom: 0;
+        left: 200px;
+        color: white;
+    }
+
+
+.icon1{
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/042/655/577/large/xploding-cube-robincomp-002.jpg?1635110062);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: antiquewhite;
+    text-align: center;
+    height: 350px;
+    width: 260px;
+    position: relative;
+    left: 1100px;
+    top: 50px;
+}
+.icon3{
+    background-image: url(https://images-na.ssl-images-amazon.com/images/I/413XNJQMBNL.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: antiquewhite;
+    text-align: center;
+    height: 350px;
+    width: 260px;
+    position: relative;
+    left: 1100px;
+    top: 50px;
+}
+.icon4{
+    background-image: url(https://i.pinimg.com/736x/7f/e3/db/7fe3db81bf78a5311e775a6d68fbe66b--raven-from-teen-titans-ravens.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: antiquewhite;
+    text-align: center;
+    height: 350px;
+    width: 260px;
+    position: relative;
+    left: 1100px;
+    top: 50px;
+}
+.icon5{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfwnzgfXu5gvsiLRI841vS2GC_qVHLOYXgsA&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: antiquewhite;
+    text-align: center;
+    height: 350px;
+    width: 260px;
+    position: relative;
+    left: 1100px;
+    top: 50px;
+}
+img{
+    position: relative;
+    top: 0;
+    left: 400px;
+    bottom: 0;
+    right: 0;
+    text-align: center;
+
+}
+p{
+    text-align: center;
+    font-size: 16px;
+}
+.all1{
+    background-image: url(https://cdn.wallpapersafari.com/86/95/gN1LbQ.jpg);
+        height: 340px;
+        width: 900px;
+         position: absolute;
+         top: 240px;
+         right: 200px;
+         bottom: 0;
+         left: 200px;
+         color: aliceblue;
+         
+ 
+ 
+     }
+.all2{
+        background-image: url(https://th.bing.com/th/id/R.5ddecdeac370edac02004253cb7cf8fa?rik=y0HrAE3uMN2zZA&pid=ImgRaw&r=0);
+            height: 340px;
+            width: 900px;
+             position: absolute;
+             top: 240px;
+             right: 200px;
+             bottom: 0;
+             left: 200px;
+             color: aliceblue;
+             background-repeat: no-repeat;
+             background-size: cover; 
+             
+     
+     
+         }
+.all3{
+            background-image: url(https://i.pinimg.com/originals/6e/ef/2e/6eef2ec65606465fb5ae78ff09e0ec5a.gif);
+            background-repeat: no-repeat;
+            background-size: cover;    
+            height: 340px;
+
+                width: 900px;
+                 position: absolute;
+                 top: 240px;
+                 right: 200px;
+                 bottom: 0;
+                 left: 200px;
+                 color: aliceblue;
+         
+         
+             }
+.all4{
+                background-image: url(https://media1.tenor.com/images/bd2f4b7c839df603fa6431855b753348/tenor.gif%3fitemid%3d10854887);
+                    height: 340px;
+                    width: 900px;
+                     position: absolute;
+                     top: 240px;
+                     right: 200px;
+                     bottom: 0;
+                     left: 200px;
+                     color: aliceblue;
+                     background-repeat: no-repeat;
+                     background-size: cover;  
+             
+             
+                 }
+.all5{
+                    background-image: url(https://th.bing.com/th/id/R.74200965e95e0d4b728e572361ff9e5b?rik=WXWP4dOHD4Fojw&riu=http%3a%2f%2f33.media.tumblr.com%2f67426de9f416504c68f89d988438ee9e%2ftumblr_mty9gjmj4M1rhcgoho9_500.gif&ehk=LLP%2fwQcBXgy6%2fGCDaVbVY%2b9ObQ0ZIBh6o8PTtkAklhI%3d&risl=&pid=ImgRaw&r=0);
+                        height: 340px;
+                        width: 900px;
+                         position: absolute;
+                         top: 240px;
+                         right: 200px;
+                         bottom: 0;
+                         left: 200px;
+                         color: aliceblue;
+                         background-repeat: no-repeat;
+                     background-size: cover; 
+                 
+                     }                
+                     a{
+                        display: block;
+                        color: #fff;
+                        size: 13px;
+                        text-align: center;
+                       padding-top: 3cm;
+                    }   
+                    
+                    a{
+                        display: block;
+                        color: #fff;
+                        size: 13px;
+                        text-align: center;
+                       padding-top: 3cm;
+                    }
 

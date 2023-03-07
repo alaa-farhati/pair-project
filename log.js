@@ -1,3 +1,4 @@
+
 function addCharactere(name,url){
   personage.push({name:name,url:url})
 }
@@ -48,14 +49,4 @@ var users = []//this var didnt get push into it the data of users but it works
         });
       
       });
-
-
-      
-    
-    
-
-    
-   
-    
-   
 

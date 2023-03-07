@@ -1,12 +1,6 @@
 body {
   background-image: url(https://th.bing.com/th/id/R.d0993388ca71953ad7bc88d5374447fa?rik=cyh0WlKjUh%2feaQ&riu=http%3a%2f%2fskarsgardfans.com%2fwp-content%2fuploads%2f2013%2f03%2fTEEN-TITANS-GO.jpg&ehk=hRAdvp6HKLt3WBzzDHXbdSAiNaHudW1rsqeNsWSLUGU%3d&risl=&pid=ImgRaw&r=0);
-  font-family: Arial, sans-serif;
-  background-position:center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  font-size: 14px;
 }
-
 .form-container {
   display: flex;
   justify-content: center;
@@ -37,26 +31,5 @@ input[type="password"] {
   width: 100%;
 }
 
-button {
-  background-color: #4CAF50;
-  border: none;
-  border-radius: 4px;
-  color: #ffffff;
-  cursor: pointer;
-  font-size: 16px;
-  margin-top: 10px;
-  padding: 12px 20px;
-  transition: background-color 0.2s;
-  width: 100%;
-}
 
-button:hover {
-  background-color: #3e8e41;
-}
-
-.error-message {
-  color: red;
-  font-size: 12px;
-  margin: 10px 0;
-}
 

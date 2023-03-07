@@ -21,7 +21,7 @@ $(document).ready(function(){
 
 // second function 
 
-var characters=[{name: 'Robin' , link:'/Robin.html'},{name:'s', link :'/starfire.html'},{name:'Cyborg' , link: '/Cyborg.html'}, {name:'Raven', link :'/Raven.html'}, {name: 'Beast' , link: '/Beast.html'}]
+var characters=[{name: 'Robin' , link:'/Robin.html'},{name:'s', link :'/starfire.html'},{name:'Cyborg' , link: '/Cyborg.html'}, {name:'Raven', link :'/Raven.html'}, {name: 'Beast' , link: '/Beast.html'},{name:"blackfire",link:"/backfire.html"},{name:"misterX",link:"/misterX.html"},{name:"slade",link:"/slade.html"},{name:"terra",link:"/terra.html"},{name:"trigon",link:"/trigon.html"}]
 $(document).ready(function(){
     $('#Search').click(function(){
         var input1 = $('#input1').val()
